@@ -1,0 +1,105 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body { font-family: "montserrat", sans-serif ;
+font-size: 18px;
+line-height: 1.4;}
+
+html {
+    font-size: 10px;
+}
+
+
+section { padding: 24px;}
+
+hr { display: none;}
+
+h1::first-letter {font-size: 64px ;}
+
+h1 {font-family: "montserrat", sans-serif ;
+    margin-bottom: 32px;
+    
+}
+
+figcaption {
+    font-family: "montserrat", sans-serif;
+}
+
+h2, ul, a {margin-bottom: 24px;}
+
+h3 {margin-bottom: 18px;}
+
+p,li {margin-bottom: 6px;}
+
+#caracteristicas {
+    margin-top: 24px ;
+}
+
+
+a:link, a:visited {
+     margin-bottom: 24px;
+    display: inline-block;
+}
+
+a:hover, a:active {color:#0588c4;}
+
+
+#bloco { background-color:#035276 ;
+display: inline-block;
+color: aliceblue;
+box-shadow: 0 0 16px 4px; color: black;}
+   
+    
+
+
+figcaption {
+    margin-left: 32px;
+}
+
+
+ul {margin-left: 24px;
+}
+
+figcaption {font-size: 12px;
+font-style: italic;}
+
+a {font: size 24px;
+   font-weight: 700;
+text-transform: uppercase;
+text-decoration:double;
+text-decoration-line: underline;
+color: #c44105;}
+
+
+h1 {font-size: 45px;
+line-height: 1;}
+h2 {font-size: 32px;
+line-height: 1.1;}
+h3 {font-size: 24px;
+line-height: 1.2;}
+p {font-size: 18px;
+line-height:1.4 ;}
+
+ul { color: #035276 ;
+font-style: italic;}
+
+span {color:  #0588c4;}
+
+#preco {color: white;}
+#frete-gratis {color:white;
+text-decoration-line: underline;}
+#cor {color: white;}
+#parcelamento {color: white;}
+.preco {color: #0588c4;}
+
+.img-wpp {
+    position: fixed;
+    top: 0;
+    right: 0;
+    
+}
+
